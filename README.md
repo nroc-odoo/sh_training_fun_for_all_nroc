@@ -6,3 +6,5 @@ There are somemodule in here taken straight from odoo community, just as example
 10th April 2025 - SH training with nroc
 
 Test 123 is not available
+
+All is well!
